@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80217508586",
+    "project_id": "evenements-a83be",
+    "storage_bucket": "evenements-a83be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80217508586:android:25a20528aac9d8e6ed2593",
+        "android_client_info": {
+          "package_name": "com.example.evenement_a_venir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80217508586-v42ke64a3qunpbcmipruglkuikaqgcg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTifhHW8mD9MHSt2YGyEasr2xOtvUAD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80217508586-v42ke64a3qunpbcmipruglkuikaqgcg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
